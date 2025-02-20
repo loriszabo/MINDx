@@ -1,7 +1,7 @@
 # MINDx
 Multi-modal INsights for Dementia Diagnosis
 
-#Based on: AI-based differential diagnosis of dementia etiologies on multimodal data
+# Based on: AI-based differential diagnosis of dementia etiologies on multimodal data
 
 This work is published in _Nature Medicine_ (https://doi.org/10.1038/s41591-024-03118-z).
 
